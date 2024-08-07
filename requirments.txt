@@ -1,0 +1,7 @@
+pip install opencv-python
+pip install mediapipe
+pip install pyautogui
+pip install ctypes
+pip install comtypes
+pip install pycaw
+pip install screen_brightness_control
